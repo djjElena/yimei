@@ -1,0 +1,13 @@
+HTTrack3.48-13+htsswf+htsjava launched on Mon, 04 Mar 2019 19:40:27 at http://affinitychem.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" http://affinitychem.com/ -O1 "E:\My Websites\aa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:40:28	Warning: 	Note: due to affinitychem.com remote robots.txt rules, links beginning with these path will be forbidden: /admin/, /cert/, /data/, /includes/, /install/, /languages/, /plugins/, /templates/, /themes/, /upgrade/, /api/, /js/, /affiche.php, /captcha.php, /comment.php, /cycle_image.php, /goods_script.php, /receive.php, /region.php, /respond.php, /feed.php, /gallery.php (see in the options to disable this)
+04:01:32	Warning: 	Retry after error -2 (Receive Time Out) at link affinitychem.com/goods.php?id=1360 (from affinitychem.com/category.php?id=17&price_min=0&price_max=0&page=91&sort=goods_id&order=DESC)
+
+HTTrack Website Copier/3.48-13 mirror complete in 9 hours 16 minutes 30 seconds : 27692 links scanned, 27690 files written (810175243 bytes overall) [819827718 bytes received at 24553 bytes/sec], 2.3 requests per connection
+(No errors, 2 warnings, 0 messages)

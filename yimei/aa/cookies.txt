@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+affinitychem.com	TRUE	/	FALSE	1999999999	ECS_ID	68951d18d76d9b3f430667dfb1a690a6ab3776d1
+affinitychem.com	TRUE	/	FALSE	1999999999	ECS[visit_times]	1
+affinitychem.com	TRUE	/	FALSE	1999999999	PHPSESSID	e87567e2de8b7c3fff426282ea6a5ea0
+affinitychem.com	TRUE	/	FALSE	1999999999	ECS[history]	2005%2C2008%2C2010%2C2018%2C2020
+affinitychem.com	TRUE	/	FALSE	1999999999	ECS[display]	grid
+
